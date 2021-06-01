@@ -1,0 +1,5 @@
+﻿  my_errors.c
+  my_interface.c
+c:\users\admin\desktop\screeny\sem_2\jipp\projekt\stos\stos\my_interface.c(45): warning C4098: "push": funkcja "void" zwraca wartość
+  Generowanie kodu...
+  Stos.vcxproj -> C:\Users\Admin\Desktop\screeny\sem_2\JiPP\projekt\Stos\Debug\Stos.exe

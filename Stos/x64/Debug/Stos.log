@@ -1,0 +1,12 @@
+﻿  main.c
+  my_errors.c
+  my_interface.c
+C:\Users\Kuba\Desktop\Jakub Wartak Projekt\Jakub Wartak Projekt\Stos\my_interface.c(84,10): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „unsigned int”, ale argument 2 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Kuba\Desktop\Jakub Wartak Projekt\Jakub Wartak Projekt\Stos\my_interface.c(84,10): message : ten argument jest używany jako rozmiar bufora
+C:\Users\Kuba\Desktop\Jakub Wartak Projekt\Jakub Wartak Projekt\Stos\my_interface.c(87,13): warning C4013: niezdefiniowany "isdigit"; przy założeniu, że extern zwraca int
+C:\Users\Kuba\Desktop\Jakub Wartak Projekt\Jakub Wartak Projekt\Stos\my_interface.c(139,21): warning C4013: niezdefiniowany "MY_STACK_Load_Clear"; przy założeniu, że extern zwraca int
+  my_stack.c
+  my_student.c
+  Generowanie kodu...
+C:\Users\Kuba\Desktop\Jakub Wartak Projekt\Jakub Wartak Projekt\Stos\my_errors.c(65): warning C4716: "PRINT_STUDENT": musi zwracać wartość
+  Stos.vcxproj -> C:\Users\Kuba\Desktop\Jakub Wartak Projekt\Jakub Wartak Projekt\x64\Debug\Stos.exe
